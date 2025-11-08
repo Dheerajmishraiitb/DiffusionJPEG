@@ -1,3 +1,3 @@
 # DiffusionJPEG
 
-Artifat extraction from JPEG using diffusion models
+Artifacts extraction from JPEG using diffusion models
